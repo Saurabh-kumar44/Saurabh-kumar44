@@ -1,10 +1,10 @@
 <h1 align="centre">HEllO,¯\_(ツ)_/¯ This is Saurabh verma!</h>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right"alt="Coding" width="150" height="150" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right"alt="Coding" width="300" height= 300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-kumar44&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-kumar44" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-kumar44" alt="saurabh-kumar44" /></a> </p>
+
 
 - 🌱 I’m currently learning **React,NodeJS,(DSA)**
 
@@ -13,6 +13,8 @@
 - 📫 How to reach me **sauravvermas1097v@gmail.com**
 
 - ⚡ Fun fact **I'm still alive!**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-kumar44" alt="saurabh-kumar44" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
